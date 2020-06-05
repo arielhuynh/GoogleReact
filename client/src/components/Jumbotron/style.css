@@ -1,0 +1,15 @@
+.jumbotron{
+  margin-left: 150px;
+  margin-right: 150px;
+  background-image: url("./library.jpg");
+  font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif; 
+  
+}
+.lead {
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+h1 {
+  font-size: 100px;
+}
