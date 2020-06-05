@@ -8,4 +8,4 @@ Heroku Website: https://agile-inlet-30843.herokuapp.com/
 
 # Preview
 
-![preview](/public/screenshot.JPG)
+![preview](../public/screenshot.JPG)
